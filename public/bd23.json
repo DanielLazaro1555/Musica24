@@ -339,5 +339,126 @@
     "album": "Love In The Future (Deluxe Edition)",
     "numero_de_pista": "20/20",
     "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274474_1.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Some Nights (Intro) [Explicit]",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "1/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_2.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Some Nights [Explicit]",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "2/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_3.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "We Are Young (feat. Janelle Monáe)",
+    "artista": "Fun. feat. Janelle Monáe",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "3/11",
+    "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274474_4.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Carry On",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "4/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_5.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "It Gets Better",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "5/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_6.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Why Am I the One",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "6/11",
+    "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274474_7.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "All Alone",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "7/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_8.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "All Alright",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "8/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_9.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "One Foot",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "9/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_10.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Stars",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "10/11",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274474_11.flac",
+    "descripcion": "198274474",
+    "imagen": "Albums/198274474.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Out on the Town [Explicit]",
+    "artista": "Fun.",
+    "album": "Some Nights [Explicit]",
+    "numero_de_pista": "11/11",
+    "Año": "2012"
   }
 ]
