@@ -504,5 +504,137 @@
     "album": "Levels",
     "numero_de_pista": "4/4",
     "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274476_1.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Peace Of Mind [feat. Vargas & Lagola]",
+    "artista": "Avicii feat. Vargas & Lagola",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "1/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_2.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Heaven",
+    "artista": "Avicii",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "2/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_3.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "SOS [feat. Aloe Blacc]",
+    "artista": "Avicii feat. Aloe Blacc",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "3/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_4.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Tough Love [feat. Agnes & Vargas & Lagola]",
+    "artista": "Avicii feat. Agnes & Vargas & Lagola",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "4/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_5.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Bad Reputation [feat. Joe Janiak]",
+    "artista": "Avicii feat. Joe Janiak",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "5/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_6.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Ain't A Thing [feat. Bonn] [Explicit]",
+    "artista": "Avicii feat. Bonn",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "6/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_7.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Hold The Line [feat. A R I Z O N A]",
+    "artista": "Avicii feat. A R I Z O N A",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "7/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_8.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Freak [feat. Bonn] [Explicit]",
+    "artista": "Avicii feat. Bonn",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "8/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_9.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Excuse Me Mr Sir [feat. Vargas & Lagola] [Explicit]",
+    "artista": "Avicii feat. Vargas & Lagola",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "9/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_10.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Heart Upon My Sleeve",
+    "artista": "Avicii & Imagine Dragons",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "10/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_11.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Never Leave Me [feat. Joe Janiak]",
+    "artista": "Avicii feat. Joe Janiak",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "11/12",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274476_12.flac",
+    "descripcion": "198274476",
+    "imagen": "Albums/198274476.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Fades Away [feat. Noonie Bao]",
+    "artista": "Avicii feat. Noonie Bao",
+    "album": "TIM [Explicit]",
+    "numero_de_pista": "12/12",
+    "Año": "2019"
   }
 ]
