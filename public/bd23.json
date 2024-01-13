@@ -460,5 +460,49 @@
     "album": "Some Nights [Explicit]",
     "numero_de_pista": "11/11",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274475_1.flac",
+    "descripcion": "198274475",
+    "imagen": "Albums/198274475.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Levels (Radio Edit)",
+    "artista": "Avicii",
+    "album": "Levels",
+    "numero_de_pista": "1/4",
+    "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274475_2.flac",
+    "descripcion": "198274475",
+    "imagen": "Albums/198274475.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Levels (Original Version)",
+    "artista": "Avicii",
+    "album": "Levels",
+    "numero_de_pista": "2/4",
+    "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274475_3.flac",
+    "descripcion": "198274475",
+    "imagen": "Albums/198274475.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Levels (Instrumental Radio Edit)",
+    "artista": "Avicii",
+    "album": "Levels",
+    "numero_de_pista": "3/4",
+    "Año": "2011"
+  },
+  {
+    "archivo_musica": "Albums/198274475_4.flac",
+    "descripcion": "198274475",
+    "imagen": "Albums/198274475.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Levels (Instrumental)",
+    "artista": "Avicii",
+    "album": "Levels",
+    "numero_de_pista": "4/4",
+    "Año": "2011"
   }
 ]
